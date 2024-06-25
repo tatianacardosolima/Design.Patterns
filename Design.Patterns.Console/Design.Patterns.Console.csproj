@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Behavioral.Patterns\ChainOfResponsability\" />
+    <Folder Include="Behavioral.Patterns\Command\" />
+    <Folder Include="Behavioral.Patterns\Interpreter\" />
+    <Folder Include="Behavioral.Patterns\Mediator\" />
+    <Folder Include="Behavioral.Patterns\Memento\" />
+    <Folder Include="Behavioral.Patterns\Visitor\" />
+    <Folder Include="Behavioral.Patterns\TemplateMethod\" />
+    <Folder Include="Behavioral.Patterns\Strategy\" />
+    <Folder Include="Behavioral.Patterns\State\" />
+    <Folder Include="Behavioral.Patterns\Observer\" />
+    <Folder Include="Creational.Patterns\Builder\" />
+    <Folder Include="Creational.Patterns\Singleton\" />
+    <Folder Include="Creational.Patterns\Prototype\" />
+    <Folder Include="Structural.Patterns\Adapter\" />
+    <Folder Include="Structural.Patterns\Bridge\" />
+    <Folder Include="Structural.Patterns\Composite\" />
+    <Folder Include="Structural.Patterns\Decorator\" />
+    <Folder Include="Structural.Patterns\Flyweight\" />
+    <Folder Include="Structural.Patterns\Proxy\" />
+  </ItemGroup>
+
+</Project>
