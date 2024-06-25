@@ -15,7 +15,6 @@
     <Folder Include="Behavioral.Patterns\Memento\" />
     <Folder Include="Behavioral.Patterns\Visitor\" />
     <Folder Include="Behavioral.Patterns\TemplateMethod\" />
-    <Folder Include="Behavioral.Patterns\Strategy\" />
     <Folder Include="Behavioral.Patterns\State\" />
     <Folder Include="Behavioral.Patterns\Observer\" />
     <Folder Include="Creational.Patterns\Singleton\" />
