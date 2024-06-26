@@ -17,3 +17,4 @@ emailBuilder.AddAnexo(new Anexo { Nome = "Documento.pdf",
                 Conteudo = new byte[] { /* Conteúdo do anexo */ } });
 
 var email = emailBuilder.GetEmail;
+Console.WriteLine("");
