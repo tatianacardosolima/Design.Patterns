@@ -13,13 +13,13 @@ namespace Design.Patterns.Console.Behavioral.Patterns.Command
         public void Deposit(int amount)
         {
             Balance += amount;
-            Console.WriteLine($"Deposited ${amount}. Balance is now ${Balance}");
+            
         }
 
         public void Withdraw(int amount)
         {
             Balance -= amount;
-            Console.WriteLine($"Withdrawn ${amount}. Balance is now ${Balance}");
+            
         }
     }   
 }
